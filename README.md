@@ -3,7 +3,6 @@
 ## Integrantes
 
 - a1805 Natalia Beatriz Diaz
-- e1401 Martin Nicolas Duarte
 - a1822 Cristian Patricio Salinas Talamilla
 - a1812 Ezequiel Eduardo Maudet
 - a1819 Manuel Pineyro
